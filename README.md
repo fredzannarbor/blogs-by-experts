@@ -24,6 +24,9 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
  - Scott Aaronson: [The 8000th Busy Beaver number eludes ZF set theory](http://www.scottaaronson.com/blog/?p=2725)
+ 
+ ## Counterintelligence & terror
+ - John Schindler: [The XX Committee](https://20committee.com/) Schindler is a contentious figure but as former NSA counterintelligence officer and PhD historian for NSA he knows his stuff.
 
 ## Economics
 
