@@ -16,6 +16,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Andreessen-Horowitz (et al.): [16 Definitions on the Economics of VC](http://a16z.com/2016/09/11/vc-economics/)
  - Patrick McKenzie: [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
+## Climate Science
+
+ - [Real Climate: Climate Science by Climate Scientists](http://www.realclimate.org)
+ 
 ## Computer science
 
  - Richard Lipton & Ken Reagan: [A big result on graph isomorphism](https://rjlipton.wordpress.com/2015/11/04/a-big-result-on-graph-isomorphism/)
